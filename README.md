@@ -1,3 +1,3 @@
-# Hi there! Welcome 💖
+## Hi there! Welcome 💖
 
-💻 I’m currently studying to be a Front-end Web Developer at Laboratoria.
+💻 I’m currently studying to be a **Front-end Web Developer** at (**Laboratoria**)[https://www.laboratoria.la/br].
