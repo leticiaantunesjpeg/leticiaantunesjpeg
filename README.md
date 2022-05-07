@@ -1,6 +1,6 @@
 <h2 align="center">Olá, me chamo Leticia Antunes!💖</h2>
 
-- 👩🏻‍💻 Estou estudando para ser Desenvolvedora Front-end na **Laboratoria**
+- 👩🏻‍💻 Estou estudando para ser **Desenvolvedora Front-end** na **Laboratoria**
 
 - 🎓 Sou aluna do curso de bacharelado em **Engenharia de Software**
 
