@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&width=500&lines=Hello+World!;Me+chamo+Leticia+Antunes!%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&width=500&lines=Hello+World!;Me+chamo+Leticia+Antunes!%F0%9F%92%96)](https://git.io/typing-svg)
 
 - 👩🏻‍💻 Estou estudando para ser **Desenvolvedora Front-end** na **Laboratoria**
 
