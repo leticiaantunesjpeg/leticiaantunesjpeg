@@ -6,7 +6,7 @@
 
 - 🎓 Sou aluna do curso de bacharelado em **Engenharia de Software**
 
-- 🌱 Estou aprendendo sobre **frameworks e testes unitários.**
+- 🌱 Estou aprendendo sobre **React e testes unitários.**
 
 <h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
