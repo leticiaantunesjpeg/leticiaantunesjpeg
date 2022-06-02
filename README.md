@@ -1,5 +1,5 @@
 <p align="center" background-color="red">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=000000&center=true&vCenter=true&background=FF0000FF&lines=Hello+World!;Me+chamo+Leticia+Antunes+!%F0%9F%92%96">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=000000&center=true&vCenter=true&background=FF0000FF&lines=Hello+World!;Me+chamo+Leticia+Antunes+!%F0%9F%92%96">
 </p>
 
 - 👩🏻‍💻 Estou estudando para ser **Desenvolvedora Front-end** na **Laboratoria**
