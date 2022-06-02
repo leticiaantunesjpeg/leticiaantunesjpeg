@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" background-color="red">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&color=000000&center=true&lines=Hello+World!;Me+chamo+Leticia+Antunes+!%F0%9F%92%96">
 </p>
 
