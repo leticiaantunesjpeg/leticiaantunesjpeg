@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=26&duration=4000&color=000000&center=true&vCenter=true&background=FFFFF&height=40&lines=Hello+World!;Me+chamo+Leticia+Antunes+!%F0%9F%92%96">
 </p>
 
-- 👩🏻‍💻 Estou estudando para ser **Desenvolvedora Front-end** na **Laboratoria**
-
 - 🎓 Sou aluna do curso de bacharelado em **Engenharia de Software**
 
-- 🌱 Estou aprendendo sobre **React e testes unitários.**
+- 👩🏻‍💻 Sou **Desenvolvedora Front-end Junior** pela **Laboratoria**
+
+- 🌱 Atualmente estou estudando sobre **React e testes unitários.**
 
 <h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
