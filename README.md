@@ -20,5 +20,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiaantunesjpeg&show_icons=true&theme=dracula&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en" alt="leticiaantunesjpeg" /></p>
 
 <div align="center">
+  
   ![Snake animation](https://github.com/leticiaantunesjpeg/leticiaantunesjpeg/blob/output/github-contribution-grid-snake.svg)
 </div>
+
