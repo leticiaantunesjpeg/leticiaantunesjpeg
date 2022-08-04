@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 Sou **Desenvolvedora Front-end Junior** pela **Laboratoria**;
 
-- 🌱 Atualmente estou estudando sobre **React e testes unitários**;
+- 🌱 Atualmente estou estudando sobre **Java e Python**;
 
 <h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
