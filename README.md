@@ -4,9 +4,9 @@
 
 - 🎓 Sou aluna do curso de bacharelado em **Engenharia de Software**;
 
-- 👩🏻‍💻 Sou **Desenvolvedora Front-end Junior** pela **Laboratoria**;
+- 💜 Sou **Analista de Sistemas Jr.** na **Raízen**;
 
-- 🌱 Atualmente estou estudando sobre **Java e Python**;
+- 👩🏻‍💻 Atualmente estou estudando sobre **Java e Python**;
 
 <h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
