@@ -6,7 +6,7 @@
 
 - 💜 Sou **Analista de Sistemas Jr.** na **Raízen**;
 
-- 👩🏻‍💻 Atualmente estou estudando sobre **Java e Python**;
+- 👩🏻‍💻 Atualmente estou estudando sobre **Java**, **Spring Boot**, **Microsserviços** e **Python**;
 
 <h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
