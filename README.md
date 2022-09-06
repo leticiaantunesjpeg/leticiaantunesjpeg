@@ -10,7 +10,7 @@
 
 <h3 align="center">Conecte-se comigo:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/leticiaantunes95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticiaantunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 
 <h3 align="center">Linguagens e ferramentas:</h3>
