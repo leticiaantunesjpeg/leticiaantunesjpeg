@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=arial&size=26&duration=4000&color=000000&center=true&vCenter=true&background=FFFFF&height=40&lines=Hello+World!;Me+chamo+Leticia+Antunes+!%F0%9F%92%96">
 </p>
 
-- 🎓 Sou aluna do curso de bacharelado em **Engenharia de Software**;
+- 🎓 Aluna do curso de bacharelado em **Engenharia de Software**;
 
-- 💜 Sou **Analista de Sistemas Jr.** na **Raízen**;
+- 💜 **Analista de Sistemas Jr.** na **Raízen**;
 
 - 👩🏻‍💻 Atualmente estou estudando sobre **Java**, **Spring Boot**, **Microsserviços** e **Python**;
 
