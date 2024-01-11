@@ -4,7 +4,7 @@
 
 - 🎓 Aluna do curso de bacharelado em **Engenharia de Software**;
 
-- 💜 **Analista de Sistemas Jr.** na **Raízen**;
+- 💜 **Analista de Sistemas Jr**;
 
 - 👩🏻‍💻 Atualmente estou estudando sobre **Java**, **Spring Boot**, **Microsserviços** e **Python**;
 
